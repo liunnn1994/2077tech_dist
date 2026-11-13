@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+
+<defs><filter id="blur"><feGaussianBlur stdDeviation="1.35" /></filter></defs>
+<path fill="black" d="M0 0h256v256H0z" />
+<g fill="white" font-family="monospace" font-weight="700" filter="url(#blur)" opacity="0.6">
+<text x="58.62" y="29.45" font-size="11.38" textLength="65.36" lengthAdjust="spacingAndGlyphs">NORRIS LAU</text>
+<text x="35.64" y="70.00" font-size="11.34" textLength="32.76" lengthAdjust="spacingAndGlyphs">CODE</text>
+<text x="68.89" y="240.73" font-size="10.69" textLength="89.18" lengthAdjust="spacingAndGlyphs">PRODUCTS</text>
+<text x="208.43" y="184.64" font-size="11.48" textLength="20.41" lengthAdjust="spacingAndGlyphs">AI</text>
+<text x="44.20" y="136.78" font-size="16.28" textLength="56.27" lengthAdjust="spacingAndGlyphs">OPEN SOURCE</text>
+<text x="130.82" y="79.42" font-size="15.73" textLength="45.12" lengthAdjust="spacingAndGlyphs">BUILD</text>
+<text x="58.14" y="194.71" font-size="16.18" textLength="74.85" lengthAdjust="spacingAndGlyphs">COMMUNITY</text>
+</g>
+</svg>
